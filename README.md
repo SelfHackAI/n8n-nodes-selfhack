@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://selfhack.ai/logo.png" alt="SelfHack AI" width="200"/>
+  <img src="https://selfhack.ai/wp-content/uploads/2025/05/SH_Logo_Dark120.png" alt="SelfHack AI" width="200"/>
   
   # n8n-nodes-selfhack
 
